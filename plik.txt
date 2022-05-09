@@ -1,2 +1,5 @@
 Zmiana pliku. Inna wersja
 Ala ma kota
+
+
+Dodanie nowej esprerymentalnej funkcjonalnosci. 
